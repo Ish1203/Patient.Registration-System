@@ -1,5 +1,5 @@
-##🏥 Automated Healthcare Management System (C Project)
-#📘 Overview
+🏥 Automated Healthcare Management System (C Project)
+📘 Overview
 
 This project is a simple console-based C program that demonstrates how a healthcare management system can register and display basic patient information.
 It serves as a beginner-friendly mini project for students learning C programming, structures, and user input/output handling.
