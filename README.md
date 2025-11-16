@@ -1,4 +1,4 @@
-🏥 Automated Healthcare Management System (C Project)
+🏥 Automated Healthcare Management System 
 
 📘 Overview
 
